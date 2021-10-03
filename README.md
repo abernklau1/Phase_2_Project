@@ -1,7 +1,7 @@
 # Phase_2_Project
 
 ## Summary
-**UNFINISHED**
+**UNFINISHED**\n
 In this project for Flatiron School, Data Science Bootcamp, Drew, Andrew, and Andy explore King's County real estate data to determine the best correlation to sales price of houses as well as model these data in order to back these findings statistically.
 
 ## Links to Presentation and Sources

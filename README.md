@@ -1,4 +1,4 @@
-![kings county homes](./Images/King_County_homes_map.png)
+![kings county homes](./Images/King_County_homes_map_improved.png)
 # Real Estate Analysis
 
 ## Summary
@@ -13,7 +13,7 @@ This project uses a linear regression model with preprocessed data to infer the 
 ## Results
 Continuing with our goal of reasonable renovations to a home, we found that square foot living, bedrooms, a good and a very good condition were significant in explaining the variation in price.
 
-![explainability](./Images/Explainablilty_of_Price_with_Features.png)
+![explainability](./Images/Explainablilty_of_Price_with_Features.PNG)
 
 We dropped bedrooms as it does not increase the price of a home. For every additional square foot of living space there is on average a $287 sale price increase. Increasing the condition of the home can raise the sale price on average anywhere between $36k to $115k.
 

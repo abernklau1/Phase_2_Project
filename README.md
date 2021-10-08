@@ -30,7 +30,7 @@ This analysis leads to following reccomendations and actions to take as a home s
 - **Buying recommendations** Here we have provided information on increasing sale price on home. Now we would like to explore the best option on buying a new home.
 
 ## Links to Presentation and Sources
-See the full analysis in the [Jupyter Notebook](./Real Estate Analysis.ipynb) or review the [presentation](./Real Estate Analysis.pdf)
+See the full analysis in the [Jupyter Notebook](./Real Estate Analysis.ipynb) or review the [presentation](./Real_Estate_Analysis.pdf)
 
 ## Repository Contents
 ```

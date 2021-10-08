@@ -13,7 +13,7 @@ This project uses a linear regression model with preprocessed data to infer the 
 ## Results
 Continuing with our goal of reasonable renovations to a home, we found that square foot living, bedrooms, a good and a very good condition were significant in explaining the variation in price.
 
-![explainability](./Images/Explainablilty of Price with Features.png)
+![explainability](./Images/Explainablilty_of_Price_with_Features.png)
 
 We dropped bedrooms as it does not increase the price of a home. For every additional square foot of living space there is on average a $287 sale price increase. Increasing the condition of the home can raise the sale price on average anywhere between $36k to $115k.
 
@@ -30,7 +30,7 @@ This analysis leads to following reccomendations and actions to take as a home s
 - **Buying recommendations** Here we have provided information on increasing sale price on home. Now we would like to explore the best option on buying a new home.
 
 ## Links to Presentation and Sources
-See the full analysis in the [Jupyter Notebook](./Real Estate Analysis.ipynb) or review the [presentation](./Real_Estate_Analysis.pdf)
+See the full analysis in the [Jupyter Notebook](./Real_Estate_Analysis.ipynb) or review the [presentation](./Real_Estate_Analysis.pdf)
 
 ## Repository Contents
 ```
